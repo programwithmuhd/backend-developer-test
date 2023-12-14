@@ -1,4 +1,4 @@
-# Iphone Photography School Back-developer
+# Iphone Photography School Backend-developer test
 
 ### Installation
 
