@@ -2,7 +2,7 @@
 
 ### Installation
 
-- Clone the repository: git clone https://github.com/your-username/xeexacksgrill.git
+- Clone the repository: git clone https://github.com/programwithmuhd/backend-developer-test
 - Install dependencies:
 
 - composer install
